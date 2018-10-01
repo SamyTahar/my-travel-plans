@@ -2,5 +2,5 @@
 * This tool helps you to find the right room on the right orbit :rocket:
 
   * Radiation free.
-  * Best location to watch you own country
+  * Best location to watch your own country
   * On space bottle for free 
